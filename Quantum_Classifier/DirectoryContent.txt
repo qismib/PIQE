@@ -1,0 +1,5 @@
+- La cartella Statevector contiene i programmi necessari per implementare il
+  quantum classifier IDEALE.
+- La cartella Statevector contiene i programmi necessari per implementare il
+  quantum classifier utilizzando un simulatore di Backend REALE.
+- Images contiene i grafici inseriti nel testo della tesi.
