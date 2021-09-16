@@ -1,0 +1,9 @@
+- Il file Calibration.py contiene l'intero programma di caratterizzazione in
+  linguaggio Python. E' eseguibile da terminale.
+- Il file CalibrationProgramm.ipynb è identico al precendente ma riscritto per
+  essere eseguito come jupyter notebook.
+- Il file Relaxation_light.ipynb contiene il programma di sola stima del tempo T1
+  e fornisce risultati più completi dai fit.
+- Il file Coherence_light.ipynb contiene il programma di sola stima del tempo T2
+  e fornisce risultati più completi dai fit.
+- In Images i grafici usati per il testo della tesi.
